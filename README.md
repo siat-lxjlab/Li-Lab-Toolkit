@@ -28,8 +28,10 @@
 
 ## 其他
 
+- [李骁健主页](http://bcbdi.siat.ac.cn/index.php/member/showMember/nid/13.shtml)
 - [Feedly](https://feedly.com/) RSS订阅
 
 ## ChangeLog
 
+- 190906 v0.1 xdpwjj增补李骁健主页
 - 190822 v0.1 xdpwjj创建 Demo 版
