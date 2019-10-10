@@ -15,7 +15,7 @@
 ## 通用工具
 
 - [GitHub](https://github.com/) ：世界上最大的程序员交流平台
-- []()
+- [All in one](https://all-io.net/)：元搜索引擎
 - []()
 
 ## 学术搜索
@@ -25,6 +25,8 @@
 - [Apollo Home](https://www.repository.cam.ac.uk/)：剑桥大学的研究成果合集
 - [Library Genesis](http://gen.lib.rus.ec/): 电子书下载
 - [世界数字图书馆主页](https://www.wdl.org/zh/)：世界数字图书馆（ WDL ），免费提供世界各地重要原始材料
+- [Jove](https://www.jove.com/)：实验技术视频网站
+- [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/)：生物医学文献搜索工具
 
 ## 其他
 
@@ -33,5 +35,6 @@
 
 ## ChangeLog
 
+- 191010 v0.1 xdpwjj增补工具
 - 190906 v0.1 xdpwjj增补李骁健主页
 - 190822 v0.1 xdpwjj创建 Demo 版
